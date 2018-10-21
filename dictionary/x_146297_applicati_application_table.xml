@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Application Table" max_length="40" name="x_146297_applicati_application_table" type="collection"/>
+</database>

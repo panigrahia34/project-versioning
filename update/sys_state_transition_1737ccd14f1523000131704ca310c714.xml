@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_state_transition">
+    <sys_state_transition action="INSERT_OR_UPDATE">
+        <description/>
+        <enter_condition/>
+        <exit_condition/>
+        <order>100</order>
+        <state>1</state>
+        <state_label>Open</state_label>
+        <state_model display_value="state model for  apllication">cfc63f894fd123000131704ca310c73b</state_model>
+        <sys_class_name>sys_state_transition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-20 19:38:53</sys_created_on>
+        <sys_id>1737ccd14f1523000131704ca310c714</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="Application" source="x_146297_applicati">c676b3494fd123000131704ca310c79c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application">c676b3494fd123000131704ca310c79c</sys_scope>
+        <sys_update_name>sys_state_transition_1737ccd14f1523000131704ca310c714</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-20 19:39:36</sys_updated_on>
+        <terminal_state>false</terminal_state>
+    </sys_state_transition>
+</record_update>
